@@ -1,7 +1,7 @@
 ```shell
 go test -bench=.
 ```
-Tested with MacOS M1 Pro / 32GB
+Tested with MacBook M1 Pro / 32GB
 
 ```
 goos: darwin
